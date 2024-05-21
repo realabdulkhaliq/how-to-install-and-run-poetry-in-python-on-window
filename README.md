@@ -48,3 +48,9 @@ poetry env list
 ```
 poetry run python ./hello_world/main.py
 ```
+
+3. Add/Run pytest dependency
+
+```
+poetry add pytest
+```
