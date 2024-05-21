@@ -62,3 +62,10 @@ poetry run pytest
 
 _pytest seccessful_
 
+4. All Poetry Commands
+
+[Poetry Commands](https://realpython.com/dependency-management-python-poetry/#command-reference)
+
+5. Poetry Documentation
+
+[Poetry Docs](https://python-poetry.org/docs/)
