@@ -20,3 +20,17 @@
 ```
 (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python - --uninstall
 ```
+
+## How to Use Run Poetry
+
+1. Create a project name hello-world
+
+```
+poetry new hello-world
+```
+
+2. Change deirectory
+
+```
+cd hello-world
+```
