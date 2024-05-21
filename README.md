@@ -38,3 +38,7 @@ cd hello-world
 ```
 poetry run python --version
 ```
+
+```
+poetry env list
+```
