@@ -15,4 +15,4 @@
 
 4. If you want to un-install poetry again then use uninstall flag
 
-`(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -uninstall`
+`(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python - --uninstall`
