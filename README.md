@@ -58,9 +58,7 @@ poetry add pytest
 ```
 poetry run pytest
 ```
-```
-poetry run pytest
-```
+
 
 _pytest seccessful_
 
