@@ -4,9 +4,9 @@
 
 1. Run the following command in Windows PowerShell
 
-``
+```
 (Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -
-``
+```
 
 **Note:** _If you've installed Python through the Microsoft Store, replace py with python in the command_
 
@@ -17,4 +17,6 @@
 
 4. If you want to un-install poetry again then use uninstall flag
 
-`(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python - --uninstall`
+```
+(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | python - --uninstall
+```
