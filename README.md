@@ -54,3 +54,13 @@ poetry run python ./hello_world/main.py
 ```
 poetry add pytest
 ```
+
+```
+
+```
+
+poetry run pytest
+
+```
+
+```
