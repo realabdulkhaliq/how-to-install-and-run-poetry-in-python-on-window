@@ -56,11 +56,5 @@ poetry add pytest
 ```
 
 ```
-
-```
-
 poetry run pytest
-
-```
-
 ```
