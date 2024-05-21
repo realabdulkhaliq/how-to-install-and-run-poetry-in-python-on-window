@@ -29,8 +29,12 @@
 poetry new hello-world
 ```
 
-2. Change deirectory
+2. Important Commands
 
 ```
 cd hello-world
+```
+
+```
+poetry run python --version
 ```
