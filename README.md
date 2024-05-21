@@ -42,3 +42,9 @@ poetry run python --version
 ```
 poetry env list
 ```
+
+2. To run project
+
+```
+poetry run python ./hello_world/main.py
+```
