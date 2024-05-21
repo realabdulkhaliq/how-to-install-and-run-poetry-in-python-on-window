@@ -12,3 +12,7 @@
 
 3. Close PowerShell and Re-open againg and run
    `poetry --version`
+
+4. If you want to un-install poetry again then use uninstall flag
+
+`(Invoke-WebRequest -Uri https://install.python-poetry.org -UseBasicParsing).Content | py -uninstall`
