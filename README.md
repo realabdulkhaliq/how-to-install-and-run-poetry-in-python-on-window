@@ -10,7 +10,7 @@
 
 **Note:** _If you've installed Python through the Microsoft Store, replace py with python in the command_
 
-2. Wait for the Installation. After installation complete add the provided (provided after installaion on PowerShell )Path to Environment Variables
+2. Wait for the Installation. After installation complete add the provided (provided after installaion on PowerShell) Path to Environment Variables
 
 3. Close PowerShell and Re-open againg and run
    `poetry --version`
